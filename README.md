@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello 😄👋
 
 <!--
 **SatarupaG/SatarupaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,4 @@ My name is Satarupa. I am currently working at Vedic Maths Forum India as a Math
 
 I am a data enthusiast who loves to explore ways in which data can be churned to make it more meaningful and useful in daily lives. Please feel free to check out my repositories and see if you find anything useful...
 
-Don't hesitate to reach me at ghoshsatarupa.sss@gmail.com if you think there might be some projects that would be interesting to me and we can collaborate on. 😄
+Don't hesitate to reach me at ghoshsatarupa.sss@gmail.com if you think there might be some projects that would be interesting to me and we can collaborate on. 
