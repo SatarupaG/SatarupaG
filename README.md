@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Satarupa. I am currently working at Vedic Maths Forum India as a Mathematics Instructor
+My name is Satarupa. I am currently working at Vedic Maths Forum India as a Mathematics Instructor.
 
 I am a data enthusiast who loves to explore ways in which data can be churned to make it more meaningful and useful in daily lives. Please feel free to check out my repositories and see if you find anything useful...
 
-Don't hesitate to reach me at ghoshsatarupa.sss@gmail.com if you think there might be some projects that would be interesting to me and we can collaborate on.
+Don't hesitate to reach me at ghoshsatarupa.sss@gmail.com if you think there might be some projects that would be interesting to me and we can collaborate on. 😄
